@@ -63,7 +63,7 @@ You have successfully created your virtual environment! To be sure that you are 
 
 <details>
 <summary>Mac</summary>
-On a Mac, run `echo "conda activate learn-env" >> ~/.bash_profile` to add the configuration to your bash profile and then run `source ~/.bash_profile` to activate the changes you just made.
+On a Mac, run `echo "conda activate learn-env" >> ~/.bash_profile` to add the configuration to your bash profile and then run `source activate learn-env ~/.bash_profile` to activate the changes you just made.
 </details>
 
 <details>
